@@ -9,7 +9,7 @@ function Title() {
         W can give a shape of your body here!
       </TertiaryHeading>
       <p className="font-medium text-gray-200">
-        At <b>Gymate</b>, we are dedicated to helping you achieve the body of
+        At <b>CoreFit</b>, we are dedicated to helping you achieve the body of
         your dreams. Our expert trainers and nutritionists will work with you to
         create a personalized fitness and nutrition plan that helps you reach
         your specific goals.

@@ -8,7 +8,7 @@ function HeroPages({ page }) {
         <h1 className="ml-8 text-4xl font-bold text-white">{page}</h1>
         <SecondaryHeading bgColor="black" uppercase={false}>
           <Link to="/" className="focus text-red">
-            Gymate -{" "}
+            CoreFit -{" "}
           </Link>
           {page}
         </SecondaryHeading>
