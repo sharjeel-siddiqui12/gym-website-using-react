@@ -37,7 +37,7 @@ function Info() {
             +92 31523697586
           </a>
           <a
-            href="mailto:example@gymate.com"
+            href="sharjeelsiddiqui00@gmail.com"
             className="block font-medium text-gray-300"
           >
             sharjeelsiddiqui00@gmail.com

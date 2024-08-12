@@ -7,7 +7,7 @@ function Logo({ size = "w-full", type = "white" }) {
     <Link to="/" className="focus inline-block">
       <img
         src={`${type === "black" ? logoBlack : logoWhite}`}
-        alt="gymate logo"
+        alt="Corefit logo"
         className={`h-auto ${size}`}
       />
     </Link>
