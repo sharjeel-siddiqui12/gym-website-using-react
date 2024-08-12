@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .focus {
+    @apply rounded-sm ring-offset-4
+    ring-offset-transparent transition-all duration-300 focus-within:outline-none focus-within:ring-2
+    focus-within:ring-red/50 focus:outline-none focus:ring-2 focus:ring-red/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red/50;
+  }
+}
+
+@layer base {
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #ff0336;
+  }
+  /* Chrome, Edge and Safari */
+  *::-webkit-scrollbar {
+    @apply h-[10px] w-[10px];
+  }
+  *::-webkit-scrollbar-thumb {
+    @apply rounded-3xl bg-red hover:bg-gray-300;
+  }
+  *::-webkit-scrollbar-track {
+    @apply rounded-3xl bg-gray-100;
+  }
+}
+
+@layer utilities {
+  .clip-path-hero {
+    clip-path: polygon(0 0, 60% 0, 100% 100%, 30% 100%);
+  }
+  .clip-path-left {
+    clip-path: polygon(0 20%, 100% 0%, 100% 100%, 0% 100%);
+  }
+  .clip-path-right {
+    clip-path: polygon(0 0, 100% 20%, 100% 100%, 0% 100%);
+  }
+  .clip-path-hexagon {
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  }
+  .clip-path-hexagon-fix {
+    clip-path: polygon(0 0, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  }
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+  .rotate-x-180 {
+    transform: rotateX(180deg);
+  }
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  .perspective {
+    perspective: 100000px;
+  }
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+}
