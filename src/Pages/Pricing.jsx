@@ -10,5 +10,4 @@ function Pricing() {
     </main>
   );
 }
-
 export default Pricing;

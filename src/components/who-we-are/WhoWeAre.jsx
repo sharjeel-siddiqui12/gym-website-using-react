@@ -2,7 +2,7 @@ import FeatureCards from "./FeatureCards";
 import Title from "./Title";
 import Facilities from "./Facilities";
 import SecondaryButton from "../buttons/SecondaryButton";
-import RunningGirl from "./RunningGirl";
+import RunningGirl from "./RunningBoy";
 
 function WhoWeAre() {
   return (
