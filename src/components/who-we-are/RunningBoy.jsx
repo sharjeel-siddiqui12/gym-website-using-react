@@ -5,11 +5,10 @@ function RunningGirl() {
     <div className="hidden 2xl:block">
       <img
         src={runningBoy}
-        alt="runningGirl"
+        alt="runningBoy"
         className="h-auto w-full animate-float2"
       />
     </div>
   );
 }
-
 export default RunningGirl;
