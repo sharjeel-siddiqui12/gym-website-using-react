@@ -14,7 +14,7 @@ function Days({ selectedDay, setSelectedDay }) {
           key={i}
           className={`rounded-full border px-4 py-2 font-semibold transition-all duration-300 hover:border-red hover:bg-red hover:text-white hover:shadow-xl xl:px-6 ${
             selectedDay === i
-              ? "border-red bg-red text-white"
+              ? "border-red bg-red text-white" 
               : "border-gray-150"
           }`}
           onClick={() => setSelectedDay(i)}
