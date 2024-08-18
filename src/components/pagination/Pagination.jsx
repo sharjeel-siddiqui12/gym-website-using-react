@@ -15,5 +15,4 @@ function Pagination({ curPage, numPages, setCurPage }) {
     </div>
   );
 }
-
 export default Pagination;

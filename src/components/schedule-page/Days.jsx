@@ -6,7 +6,6 @@ const openDays = [
   "Friday",
   "Saturday",
 ];
-
 function Days({ selectedDay, setSelectedDay }) {
   return (
     <div className="mb-14 flex flex-wrap gap-2 xl:gap-5">
