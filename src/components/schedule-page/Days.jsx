@@ -19,6 +19,7 @@ function Days({ selectedDay, setSelectedDay }) {
           }`}
           onClick={() => setSelectedDay(i)}
         >
+          
           {day}
         </button>
       ))}
