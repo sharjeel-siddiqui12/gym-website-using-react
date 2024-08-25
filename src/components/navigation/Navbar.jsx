@@ -24,7 +24,6 @@ function Navigation() {
     setIsNavOpen(!isNavOpen);
   }
 
-
   return (
     <>
       <nav
