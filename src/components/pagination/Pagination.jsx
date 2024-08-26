@@ -9,9 +9,11 @@ function Pagination({ curPage, numPages, setCurPage }) {
           key={i}
           onClick={() => setCurPage(i)}
         >
+
           {i + 1}
         </button>
       ))}
+      
     </div>
   );
 }
