@@ -15,7 +15,7 @@ TailwindCSS<br/>
 
 ## Screenshot
 
-<img align="center" src='assets/mainSS.png'
+<img align="center" alt="readme_image" src="assets/mainSS.png" />
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
