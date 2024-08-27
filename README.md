@@ -15,11 +15,7 @@ TailwindCSS<br/>
 
 ## Screenshot
 
-<div align='left'>
-<img src='https://github.com/sharjeel-siddiqui12/gym-website-using-react/blob/main/assets/mainSS.png'
-</div>
+<img align="center" src='https://github.com/sharjeel-siddiqui12/gym-website-using-react/blob/main/assets/mainSS.png'
 
-<div align = "center">
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-</div>
