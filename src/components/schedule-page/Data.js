@@ -3,119 +3,119 @@ export const schedule = [
     {
       class: "Fitness",
       time: "9:00am - 10:00am",
-      trainer: "Christiano Ronaldo",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Body Building",
       time: "10:00am - 11:00pm",
-      trainer: "arnold schwarzenegger",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Running",
       time: "4:00pm - 5:00pm",
-      trainer: "Usain Bolt",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Fitness",
       time: "6:00pm - 7:00pm",
-      trainer: "Virat Kohli",
+      trainer: "Sankalp Jaiswal",
     },
   ],
   [
     {
       class: "Boxing",
       time: "9:00am - 10:00am",
-      trainer: "Mike Tyson",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Yoga",
       time: "11:00am - 12:00pm",
-      trainer: "Russell Brand",
+      trainer: "Sankalp Jaiswal",
     },
   ],
   [
     {
       class: "Cycling",
       time: "9:00am - 10:00am",
-      trainer: "Tadej Pogačar",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Body Building",
       time: "11:00am - 12:00pm",
-      trainer: "arnold schwarzenegger",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Fitness",
       time: "1:00pm - 2:00pm",
-      trainer: "Christiano Ronaldo",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Running",
       time: "4:00pm - 5:00pm",
-      trainer: "Usain Bolt",
+      trainer: "Sankalp Jaiswal",
     },
   ],
   [
     {
       class: "Yoga",
       time: "11:00am - 12:00pm",
-      trainer: "Russell Brand",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Boxing",
       time: "1:00pm - 2:00pm",
-      trainer: "Muhammad Ali",
+      trainer: "Sankalp Jaiswal",
     },
   ],
   [
     {
       class: "Karate",
       time: "10:00am - 11:00am",
-      trainer: "bruce lee",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Meditation",
       time: "1:00pm - 2:00pm",
-      trainer: "Babar Azam",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Workout",
       time: "4:00pm - 5:00pm",
-      trainer: "robert downey jr",
+      trainer: "Sankalp Jaiswal",
     },
   ],
   [
     {
       class: "Power Lifting",
       time: "9:00am - 10:00am",
-      trainer: "Daniel Bell",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Boxing",
       time: "1:00pm - 2:00pm",
-      trainer: "Mike Tyson",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Yoga",
       time: "6:00pm - 7:00pm",
-      trainer: "Chris Evan",
+      trainer: "Sankalp Jaiswal",
     },
   ],
   [
     {
       class: "Body Building",
       time: "10:00am - 11:00am",
-      trainer: "Cbum",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Running",
       time: "4:00pm - 5:00pm",
-      trainer: "Usain Bolt",
+      trainer: "Sankalp Jaiswal",
     },
     {
       class: "Martial Arts",
       time: "6:00pm - 7:00pm",
-      trainer: "jackie chan",
+      trainer: "Sankalp Jaiswal",
     },
   ],
 ];

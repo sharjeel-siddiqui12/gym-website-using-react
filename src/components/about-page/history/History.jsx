@@ -17,9 +17,7 @@ function History() {
           />
           <TertiaryHeading>Our history</TertiaryHeading>
           <p className="font-medium text-gray-300">
-            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis enim velit mollit Exercitation
-            veniam consequat.
+            CoreFit began with a vision to inspire healthier lives. Over the years, we’ve grown into a trusted fitness community, helping members achieve their goals through dedication and support.
           </p>
         </div>
 
@@ -39,9 +37,7 @@ function History() {
           />
           <TertiaryHeading>Our Mission</TertiaryHeading>
           <p className="font-medium text-gray-300">
-            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis enim velit mollit Exercitation
-            veniam consequat.
+            CoreFit’s mission is to empower every member to lead a healthier, stronger life through expert guidance, modern facilities, and a supportive community.
           </p>
         </div>
 

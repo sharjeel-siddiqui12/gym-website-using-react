@@ -9,11 +9,12 @@ function Copyright() {
       <p>
         Designed by{" "}
         <Link
-          to="https://sharjeel-siddiqui.vercel.app"
+          // to="https://sharjeel-siddiqui.vercel.app"
+          to="https://www.instagram.com/sankalp.0203/"
           target="_blank"
           className="focus text-red"
         >
-          Sharjeel Siddiqui
+          Sankalp Jaiswal
         </Link>
       </p>
     </div>

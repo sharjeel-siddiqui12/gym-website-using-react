@@ -4,7 +4,7 @@ function Share() {
   return (
     <div className="hidden rotate-[270deg] items-center justify-center gap-4 xl:flex">
       <div className="flex gap-4 text-white">
-        <a
+        {/* <a
           href="https://www.linkedin.com/in/sharjeel-siddiqui-599870248/" 
           target="_blank"
           rel="noopener noreferrer"
@@ -19,9 +19,9 @@ function Share() {
           className="transition-colors duration-300 hover:text-red"
         >
           <FaSquareGithub className="h-auto w-7 rotate-90" />
-        </a>
+        </a> */}
         <a
-          href="https://www.instagram.com/sharjeel_.siddiqui._/" 
+          href="https://www.instagram.com/sankalp.0203" 
           target="_blank"
           rel="noopener noreferrer"
           className="transition-colors duration-300 hover:text-red"

@@ -1,10 +1,10 @@
 function List() {
   return (
     <ul className="list-disc space-y-2 px-5 font-semibold text-gray-450">
-      <li>CoreFit an unknown printer</li>
-      <li>Scraey aretea bled makea type</li>
-      <li>Bookhas survived not onlyive</li>
-      <li>Centuries but also the leap electronic</li>
+      <li>Community-focused fitness center</li>
+      <li>Expert trainers and classes</li>
+      <li>Modern gym facilities</li>
+      <li>Supportive fitness environment</li>
     </ul>
   );
 }
